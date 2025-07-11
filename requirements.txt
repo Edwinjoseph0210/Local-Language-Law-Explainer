@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain
+openai
+google-cloud-translate
+gtts
+python-multipart 
